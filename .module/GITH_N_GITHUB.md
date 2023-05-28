@@ -35,3 +35,10 @@ Git is a version control system and GitHub is a hosting company.
 - compair all commit at staging area file
 17. git push 
 - for push or host the dipository at GitHub
+18. touch .gitignore
+- Here create a file .gitignore 
+- Open .gitignore file and write which file you want to ignore
+- for eg. i want to ignore all of .log and vinay.html file then i write in file *.git and vinay.html
+- all the file ignore by git
+- if i want ignore all folders wrte in file foldername
+- for single folder /foldername
