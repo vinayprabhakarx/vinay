@@ -52,3 +52,16 @@ Git is a version control system and GitHub is a hosting company.
 - git clone is use to clone or copy a file
 - git clone after type, type url name where from you want to download
 - after url type a folder name what are you wnat to make
+23. git log -p
+- to check what is remove & what commited
+24. git log --stat
+- to check in short what the changed/diff
+25. git log --pretty=oneline
+- to check what changed in one line
+26. git log --pretty=short
+- to check author name, what changed
+27. git log --pretty=full
+- to check author, commiter, diff
+28. git log --since=2.day
+- to check what change in 2 days
+- here you can write another time like 1.month, 3.week, 4.year
