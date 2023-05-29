@@ -48,3 +48,7 @@ Git is a version control system and GitHub is a hosting company.
 - This cmd use to rename the file
 21. git rm --cached file.name
 - Use to untracked a particular file from git
+22. git clone type_here_url_name folder_name
+- git clone is use to clone or copy a file
+- git clone after type, type url name where from you want to download
+- after url type a folder name what are you wnat to make
