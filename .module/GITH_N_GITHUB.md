@@ -42,3 +42,9 @@ Git is a version control system and GitHub is a hosting company.
 - all the file ignore by git
 - if i want ignore all folders wrte in file foldername
 - for single folder /foldername
+19. git rm file.name
+- This cmd use to delete the file
+20. git mv old.name new.name
+- This cmd use to rename the file
+21. git rm --cached file.name
+- Use to untracked a particular file from git
