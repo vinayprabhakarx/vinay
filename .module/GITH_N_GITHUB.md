@@ -19,8 +19,8 @@ Git is a version control system and GitHub is a hosting company.
 7. git commit -m " here type message what the changes"
 8. git log
 - to check commit status
-9. git commit -m " file.name"
-- for single file commiting
+9. git commit -a -m " message"
+- for all file commiting
 10. rm -rf .git
 - to delete all git file, and repository from computer
 11. pwd
@@ -65,3 +65,10 @@ Git is a version control system and GitHub is a hosting company.
 28. git log --since=2.day
 - to check what change in 2 days
 - here you can write another time like 1.month, 3.week, 4.year
+29. git showing this massage then use this cmd ---> 
+"Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue."
+- rm .git/index.lock
